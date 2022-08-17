@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+div {
+  text-align: center;
+}
+
+button {
+  height: 2.5em;
+  width: 5em;
+  border: none;
+  margin-left: 0.3em;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.btn-iniciar {
+  background-color: green;
+}
+.btn-pausar {
+  background-color: gray;
+}
+.btn-encerrar {
+  background-color: red;
+}
+.btn-cincomin {
+  background-color: rgb(48, 180, 212);
+}
